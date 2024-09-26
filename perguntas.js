@@ -50,69 +50,68 @@ criarCartas (
 ' 十 （じゅう） ' ,
 ' 10 ')
 
-criaCartas (
-
+criarCartas (
 'Biologia',
 'Coanócitos',
-'Células que fazem a digestão intracelular dos poríferos, além da circulação de água, )
+'Células que fazem a digestão intracelular dos poríferos, além da circulação de água' )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Cordados',
 'Possuem notocorda / coluna vertebral', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Ectotérmicos, o que é?',
 'Precisam de gatilho externo para a manutenção da sua temperatura', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Heterotróficos',
 'Não mantém temperatura constante durante o dia', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Chondrichtyes (peixes)',
 'Esqueleto cartilaginoso', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Ampolas de Lorenzini',
 'Eletroreceptores (peixes, Chondricthyes)', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Reprodução platelmintos',
 'Di e monoica, interna e externa, direto e indireto, sexuada e assexuada', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Arthropoda, especificidade do geral',
 'Exoesqueleto quitinoso, conquista ambiente terrestre.', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Ecdiase',
 'Troca do exoesqueleto dos arthropodas', )
 
-criaCartas (
+criarCartas (
 
 'Biologia',
 'Sist. Respiratório hexapoda',
 'Traqueal', )
 
-criaCartas (
+criarCartas (
 
-'Biologia,
+'Biologia',
 'Sist. Excretor Crustacea',
 'Glândulas verdes ou antenais', )
 
