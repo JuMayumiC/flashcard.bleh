@@ -1,24 +1,25 @@
 :root{
-  --fundo:
-  --cor-texto: 
-  --cor-frente-cartao
-  --cor-verso-cartao
+  --fundo:white;
+  --cor-texto:rgb(88, 0, 105);
+  --cor-frente-cartao:pink;
+  --cor-verso-cartao: rgb(185, 185, 255); 
   --preto:black;
-  --branco:white
-
+  --branco:white;
+}
 
 body{
-backgroud-color: var(--fundo);
+background-color: var(--fundo);
 
+}
 
 footer{
-    backgroud-color:var(--preto);
+    background-color:var(--preto);
     color:var(--branco)
 
 
 
 
-
+}
 
 
 
