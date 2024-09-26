@@ -17,7 +17,7 @@ criarCartas (
 
 criarCartas (
 'Japonês' ,
-' 四 （ よん / し） ' ,
+' 四 （よん / し） ' ,
 ' 4')
 
 criarCartas (
