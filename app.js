@@ -13,7 +13,6 @@ function criarCartas(categoria, perguntas, respostas) {
     </div>
     </div>
     `
-    container.appendChild(cartao);
 
     let respostaVisivel = false;
 
