@@ -39,6 +39,7 @@ h1 {
   height: 100%;
   transform-style: preserve-3d;
   transition: transform 300ms ease-in-out;
+  border-radius: 30px;
 }
 
 .cartao-conteudo h3{
