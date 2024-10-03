@@ -12,6 +12,11 @@ background-color: var(--fundo);
 
 }
 
+h1 {
+  color: var(--cor-texto);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 #container {
   display: flex;
   flex-wrap: wrap;
