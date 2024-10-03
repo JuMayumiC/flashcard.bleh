@@ -2,7 +2,7 @@
   --fundo:rgb(233, 200, 255);
   --cor-texto:rgb(88, 0, 105);
   --cor-frente-cartao:pink;
-  --cor-verso-cartao: rgb(101, 101, 253); 
+  --cor-verso-cartao: rgb(247, 190, 234); 
   --preto:black;
   --branco:rgb(0, 0, 0);
   --titulu: rgb(225, 191, 238); 
@@ -80,6 +80,7 @@ h1 {
 .cartao-resposta {
   transform: rotateY(180deg);
   background-color: var(--cor-verso-cartao);
+  border-radius: 30px;
 }
 
 .cartao-pergunta,
