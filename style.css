@@ -4,7 +4,7 @@
   --cor-frente-cartao:pink;
   --cor-verso-cartao: rgb(101, 101, 253); 
   --preto:black;
-  --branco:white;
+  --branco:rgb(0, 0, 0);
 }
 
 body{
