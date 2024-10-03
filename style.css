@@ -72,7 +72,9 @@ h1 {
 
 footer{
     background-color:var(--branco);
-    color:var(--preto)
+    color:var(--cor-frente-cartao);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 
