@@ -5,6 +5,7 @@
   --cor-verso-cartao: rgb(101, 101, 253); 
   --preto:black;
   --branco:rgb(0, 0, 0);
+  --titulu: rgb(225, 191, 238); 
 }
 
 body{
@@ -13,7 +14,7 @@ background-color: var(--branco);
 }
 
 h1 {
-  color: var(--cor-texto);
+  color: var(--titulu);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
