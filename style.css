@@ -73,12 +73,13 @@ h1 {
   font-weight: 700;
 }
 
-.cartao:hover .cartao-conteudo {
+.cartao.active .cartao-conteudo {
   transform: rotateY(180deg);
 }
 
 .cartao-resposta {
-  transform: rotateY(180deg)
+  transform: rotateY(180deg);
+  background-color: var(--cor-verso-cartao);
 }
 
 .cartao-pergunta,
