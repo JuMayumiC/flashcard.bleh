@@ -8,7 +8,7 @@
 }
 
 body{
-background-color: var(--fundo);
+background-color: var(--branco);
 
 }
 
@@ -70,6 +70,9 @@ h1 {
   font-weight: 700;
 }
 
+.cartao:hover .cartao-conteudo {
+  transform: rotateY(180deg);
+}
 
 footer{
     background-color:var(--branco);
