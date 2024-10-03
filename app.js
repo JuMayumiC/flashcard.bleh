@@ -22,7 +22,7 @@ function criarCartas(categoria, perguntas, respostas) {
     }
     cartao.addEventListener('click', viraCartao);
 
-    cartao.appendChild(cartao);
+    container.appendChild(cartao);
 
 }
 
