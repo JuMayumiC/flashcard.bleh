@@ -69,7 +69,7 @@ h1 {
 }
 
 .cartao-resposta p{
-  color: var(--cor-verso-cartao);
+  color: var(--cor-texto);
   font-weight: 700;
 }
 
