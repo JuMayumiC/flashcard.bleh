@@ -20,6 +20,11 @@ header{
   justify-content: space-around;
 }
 
+header a{
+color: var(--branco);
+text-decoration: none;
+}
+
 h1 {
   color: var(--titulu);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
