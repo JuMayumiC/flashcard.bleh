@@ -21,6 +21,11 @@
   }
   
   
+header a{
+    color: var(--branco);
+    text-decoration: none;
+  }
+  
   
   h1 {
     color: var(--titulu);
