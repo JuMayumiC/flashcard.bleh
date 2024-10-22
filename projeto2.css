@@ -39,7 +39,7 @@ header a{
   #container{
     display: grid;
     padding: 2rem;
-    gap; 3rem;
+    gap: 3rem;
   }
   
   .cartao-conteudo{
