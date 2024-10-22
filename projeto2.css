@@ -53,6 +53,7 @@ header a{
     background-color: var(--cor-verso-cartao);
     margin-top: 5px;
     padding: 20px;
+    display: none;
 }
   
   
