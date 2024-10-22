@@ -114,7 +114,15 @@ header a{
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   
   }
+
+  #container{
+    display: grid;
+    padding: 2rem;
+    gap; 3rem;
+  }
   
-  
+  .cartao-conteudo{
+    background-color: var(--cor-frente-cartao);
+}
   
   
