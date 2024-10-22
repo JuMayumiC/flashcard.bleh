@@ -47,5 +47,11 @@ header a{
     border: 1px solid var(--preto);
     box-shadow: 8px 8px 8px var(--branco);
 }
+
+.cartao-resposta{
+    background-color: var(--cor-verso-cartao);
+    margin-top: 5px;
+    padding: 20px;
+}
   
   
