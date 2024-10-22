@@ -14,17 +14,13 @@ background-color: var(--branco);
 }
 
 header{
-  background-color: var(--preto);
+  background-color: var(--branco);
   padding: 20px;
   display: flex;
   justify-content: space-around;
 }
 
-header a{
-color: var(--branco);
-text-decoration: none;
 
-}
 
 h1 {
   color: var(--titulu);
