@@ -14,7 +14,7 @@ background-color: var(--branco);
 }
 
 header{
-  background-color: var(--pink);
+  background-color: var(--branco);
   padding: 20px;
   display: flex;
   justify-content: space-around;
