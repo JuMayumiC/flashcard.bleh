@@ -45,7 +45,8 @@ header a{
   .cartao-conteudo{
     background-color: var(--cor-frente-cartao);
     border: 1px solid var(--preto);
-    box-shadow: 8px 8px 8px var(--branco);
+    box-shadow: 8px 8px 8px var(--branco)
+    padding: 20px;
 }
 
 .cartao-resposta{
