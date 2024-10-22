@@ -44,6 +44,8 @@ header a{
   
   .cartao-conteudo{
     background-color: var(--cor-frente-cartao);
+    border: 1px solid var(--preto);
+    box-shadow: 2px 2px 2px var(--preto);
 }
   
   
