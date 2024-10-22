@@ -14,7 +14,7 @@ background-color: var(--branco);
 }
 
 header{
-  background-color: var(--branco);
+  background-color: var(--preto);
   padding: 20px;
   display: flex;
   justify-content: space-around;
@@ -23,6 +23,7 @@ header{
 header a{
 color: var(--branco);
 text-decoration: none;
+
 }
 
 h1 {
