@@ -13,6 +13,13 @@ background-color: var(--branco);
 
 }
 
+header{
+  background-color: var(--preto);
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
 h1 {
   color: var(--titulu);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
